@@ -1,6 +1,6 @@
 file_format: "1"
-id: sofle_nice-shield
-name: nice!view_shield_base
+id: sofle-nice-shield
+name: nice!sofle_nice_shield
 type: shield
 url: https://nicekeyboards.com/nice-view
 requires: [nice_view_header]
